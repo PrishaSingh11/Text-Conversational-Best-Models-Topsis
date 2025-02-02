@@ -16,8 +16,7 @@ The evaluation is based on key metrics such as perplexity (PPL), BLEU score, ROU
 - **input_decision_matrix.csv** – The dataset containing performance metrics of different models.
 - **text_coversational,py** – Jupyter Notebook containing the implementation of the TOPSIS method and visualization of results.
 - **analysis.md** – Detailed analysis of the results, including rankings and insights.
-- **visualisations** - Various Graphs
-- **output_results.csv** - The output dataset
+- **Output and Visualisation** - Contains result dataset and various graphs for visualisation.
 
 ## Results Summary
 Using the TOPSIS method, the models were ranked based on their closeness to the ideal solution. The final ranking is as follows:
