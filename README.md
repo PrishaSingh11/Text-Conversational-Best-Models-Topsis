@@ -14,7 +14,7 @@ The evaluation is based on key metrics such as perplexity (PPL), BLEU score, ROU
 ## Files in This Repository
 
 - **input_decision_matrix.csv** – The dataset containing performance metrics of different models.
-- **text_coversational,py** – Jupyter Notebook containing the implementation of the TOPSIS method and visualization of results.
+- **text_coversational.py** – Jupyter Notebook containing the implementation of the TOPSIS method and visualization of results.
 - **analysis.md** – Detailed analysis of the results, including rankings and insights.
 - **Output and Visualisation** - Contains result dataset and various graphs for visualisation.
 
